@@ -1,6 +1,6 @@
-/evolution/  https://agitated-colden-6f6b75.netlify.com/  200
-/smash/ https://stupefied-shockley-a2154f.netlify.com/ 200
-/facesmash/ https://festive-shockley-aab414.netlify.com/ 200
-/explode/ https://brave-khorana-7c734e.netlify.com/ 200
-/insects/ https://serene-jennings-e54319.netlify.com/ 200
-/points/ https://eloquent-bartik-098a43.netlify.com/ 200
+/evolution/*  https://agitated-colden-6f6b75.netlify.com/:splat  200
+/smash/* https://stupefied-shockley-a2154f.netlify.com/:splat 200
+/facesmash/* https://festive-shockley-aab414.netlify.com/:splat 200
+/explode/* https://brave-khorana-7c734e.netlify.com/:splat 200
+/insects/* https://serene-jennings-e54319.netlify.com/:splat 200
+/points/* https://eloquent-bartik-098a43.netlify.com/:splat 200
